@@ -4,7 +4,6 @@
 const redis = require('socket.io-redis');
 const os = require('os');
 const _ = require('lodash');
-const socketMon = require('../lib/socket.mon');
 
 exports.createServer = function(io){
 
@@ -15,8 +14,7 @@ exports.createServer = function(io){
     const botNamespace = io.of('/bot');
     const privateNamespace = io.of('/private');
 
-    socketMon(io);
-    
+
     rootNamespace.use(commonMiddleware);
     chatNamespace.use(commonMiddleware);
     botNamespace.use(commonMiddleware);
