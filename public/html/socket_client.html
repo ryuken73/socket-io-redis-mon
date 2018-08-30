@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Socket.io inspector</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/css/uikit.min.css" />
+        <link rel="stylesheet" href="/css/socket_client.css" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <script src="/js/uikit.min.js"></script>
+        <script src="/js/uikit-icons.min.js"></script>
+    </head>
+    <body>
+        <div>
+            <input id="hostname" placeholder="enter hostname"></input>
+            <button id="getHostsList">Get Hosts Alive</button>
+            <button id="getHostSockets">Get Sockets in Host</button>
+        </div>
+        <p>
+        <div>
+            <input id="namespace" placeholder="enter NSP"></input>
+            <button id="connectNSP">Connect</button>
+            <button id="disconnectNSP">Disconnect</button>
+            <button id="getNSPSockets">Get Client Lists In Namespace</button>
+            <input id="mySocketID" placeholder="my socket id" disabled></input>
+        </div>
+        <p>
+        <div>
+            <input id="alias" placeholder="enter your name"></input>
+            <button id="setAlias">Set Alias</button>
+            <button id="getSocketIDFromAlias">Get Socket ID from Alias</button>
+            <button id="getClientRooms">Get Client Rooms</button>
+            <button id="getWhereAmI">Where are you?</button>
+            <button id="disconnectSocket">Disconnect Alias</button>
+        </div>
+        <p>
+        <div>
+            <input id="room" placeholder="enter room name"></input>
+            <button id="joinRoom">Join</button>
+            <button id="leaveRoom">Leave</button>
+            <button id="getRoomSockets">Get Members In Room</button>
+            <button id="getAllRoomList">Get All Rooms</button>
+        </div>
+        <p>
+        <div>
+            <input id="sendMessage" placeholder="enter message"></input>
+            <button id="msgToNSP">broadcast NSP</button>
+            <input id="sendRoom" placeholder="enter room name"></input>
+            <button id="msgInRoom">broadcast to Room</button>     
+            <input id="sendReceiver" placeholder="enter receiver"></input>
+            <button id="msgToMember">to Member</button>
+      
+        </div>    
+        <p>
+        <div class='uk-textarea uk-height-small' id="msgPanel"></div>   
+
+    </body>
+    <script src="/js/d3.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/js/socket_client.js"></script>
+</html>
