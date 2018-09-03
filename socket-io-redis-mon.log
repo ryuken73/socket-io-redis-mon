@@ -1,0 +1,2274 @@
+2018-09-02 15:41:20 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:56)
+2018-09-02 15:41:20 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:73)
+2018-09-02 15:41:21 [debug][Socket.<anonymous>] [/mon-redis][guest][ryutab][::1] : client disconnected : reason transport error (in main.js:64)
+2018-09-02 15:41:22 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:56)
+2018-09-02 15:41:22 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:73)
+2018-09-02 15:41:29 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:32 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:32 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:33 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:35 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:40 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:41 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:42 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:42 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:42 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:42 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:41:59 [info][socket.nsp.adapter.customRequest] [ null ] (in main.js:37)
+2018-09-02 15:42:50 [info][socket.nsp.adapter.customRequest] [ null, 'server1' ] (in main.js:37)
+2018-09-02 21:42:40 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:61)
+2018-09-02 21:42:40 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:78)
+2018-09-02 21:42:48 [debug][Socket.<anonymous>] [/mon-redis][guest][ryutab][::1] : client disconnected : reason transport error (in main.js:69)
+2018-09-02 21:42:50 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:61)
+2018-09-02 21:42:50 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:78)
+2018-09-02 21:42:51 [info][socket.nsp.adapter.customRequest] [] (in main.js:42)
+2018-09-02 21:43:00 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:02 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:03 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:03 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:03 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:04 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:04 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:04 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:04 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:04 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:30 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:61)
+2018-09-02 21:43:30 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:78)
+2018-09-02 21:43:32 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:33 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:34 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:34 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:35 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:39 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:40 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:43:41 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:42)
+2018-09-02 21:44:16 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : middleware passing (in main.js:61)
+2018-09-02 21:44:16 [debug][connectHandler] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : new client connected (in main.js:78)
+2018-09-02 21:45:05 [debug][Socket.<anonymous>] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : client disconnected : reason transport error (in main.js:69)
+2018-09-02 21:45:27 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:61)
+2018-09-02 21:45:27 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:78)
+2018-09-02 21:45:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:42)
+2018-09-02 21:45:29 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:42)
+2018-09-02 21:45:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:42)
+2018-09-02 21:57:21 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:91)
+2018-09-02 21:57:21 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:108)
+2018-09-02 22:00:33 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:02:00 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:03:34 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : middleware passing (in main.js:91)
+2018-09-02 22:03:34 [debug][connectHandler] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : new client connected (in main.js:108)
+2018-09-02 22:03:35 [debug][Socket.<anonymous>] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : client disconnected : reason transport error (in main.js:99)
+2018-09-02 22:03:37 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : middleware passing (in main.js:91)
+2018-09-02 22:03:37 [debug][connectHandler] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : new client connected (in main.js:108)
+2018-09-02 22:03:38 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:03:38 [info][socket.nsp.adapter.customRequest] [ [], [] ] (in main.js:72)
+2018-09-02 22:03:41 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:03:41 [info][socket.nsp.adapter.customRequest] [ [], [] ] (in main.js:72)
+2018-09-02 22:03:42 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:03:42 [info][socket.nsp.adapter.customRequest] [ [], [] ] (in main.js:72)
+2018-09-02 22:03:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:03:51 [info][socket.nsp.adapter.customRequest] [ [], [] ] (in main.js:72)
+2018-09-02 22:11:30 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:11:32 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:11:32 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:11:33 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:11:33 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:11:35 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:12:39 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:12:44 [info][socket.nsp.adapter.customRequest] [] (in main.js:72)
+2018-09-02 22:14:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:14:49 [info][socket.nsp.adapter.customRequest] [ [ {}, {}, {}, {}, {} ], [ {}, {}, {}, {}, {} ] ] (in main.js:72)
+2018-09-02 22:15:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:15:54 [info][socket.nsp.adapter.customRequest] [ [ {}, {}, {}, {}, {} ], [ {}, {}, {}, {}, {} ] ] (in main.js:72)
+2018-09-02 22:17:46 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:17:46 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:18:38 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:18:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: {} },
+    { namespace: '/chat', connected: {} },
+    { namespace: '/bot', connected: {} },
+    { namespace: '/private', connected: {} },
+    { namespace: '/mon-redis', connected: {} } ] ] (in main.js:72)
+2018-09-02 22:21:13 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:13 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:19 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:19 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:20 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:21:20 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:20 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:21 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:21 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:21 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:21 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:22 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:21:23 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:21:23 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:22:01 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:22:01 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ],
+  [ { namespace: '/' },
+    { namespace: '/chat' },
+    { namespace: '/bot' },
+    { namespace: '/private' },
+    { namespace: '/mon-redis' } ] ] (in main.js:72)
+2018-09-02 22:22:38 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:22:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: {} },
+    { namespace: '/chat', connected: {} },
+    { namespace: '/bot', connected: {} },
+    { namespace: '/private', connected: {} },
+    { namespace: '/mon-redis', connected: {} } ] ] (in main.js:72)
+2018-09-02 22:24:25 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:24:25 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:29 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:29 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:30 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:30 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:31 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:44 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:44 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:46 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:46 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:51 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:52 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:53 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:53 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:53 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:53 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:55 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:56 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:57 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:57 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:24:58 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:24:58 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:25:29 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:25:29 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:25:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:72)
+2018-09-02 22:25:51 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:22 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:22 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:27 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:27 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:34 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:34 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:38 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:38 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:39 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:40 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:41 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:42 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:43 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:44 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:45 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:45 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:45 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:45 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:45 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:46 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:46 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:46 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:46 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:26:49 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:26:49 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:29:16 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:91)
+2018-09-02 22:29:16 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:108)
+2018-09-02 22:29:26 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:72)
+2018-09-02 22:29:26 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:72)
+2018-09-02 22:33:26 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:95)
+2018-09-02 22:33:26 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:112)
+2018-09-02 22:35:00 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : middleware passing (in main.js:99)
+2018-09-02 22:35:00 [debug][connectHandler] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : new client connected (in main.js:116)
+2018-09-02 22:35:05 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:99)
+2018-09-02 22:35:05 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:116)
+2018-09-02 22:35:18 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : middleware passing (in main.js:99)
+2018-09-02 22:35:18 [debug][connectHandler] [/mon-redis][guest][ryutab][::ffff:127.0.0.1] : new client connected (in main.js:116)
+2018-09-02 22:35:28 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 22:35:57 [debug][Array.commonMiddleware] [/mon-redis][guest][ryutab][::1] : middleware passing (in main.js:99)
+2018-09-02 22:35:57 [debug][connectHandler] [/mon-redis][guest][ryutab][::1] : new client connected (in main.js:116)
+2018-09-02 22:35:58 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 22:35:58 [info][socket.nsp.adapter.customRequest] [ [ { namespace: '/', connected: 1 },
+    { namespace: '/chat', connected: 1 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ],
+  [ { namespace: '/', connected: 0 },
+    { namespace: '/chat', connected: 0 },
+    { namespace: '/bot', connected: 0 },
+    { namespace: '/private', connected: 0 },
+    { namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:42 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:42 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:44 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:44 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:45 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:45 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:46 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:46 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:47 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:47 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:48 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:49 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:50 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:51 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:51 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:52 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:52 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:04:53 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:54 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:56 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:56 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:57 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:58 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:58 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:58 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:58 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:59 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:59 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:04:59 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:04:59 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:01 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:02 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:02 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:04 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:07 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:07 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:07 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:07 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:07 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:10 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:10 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:11 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:12 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:12 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:13 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:13 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:13 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:13 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:15 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:15 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:20 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:20 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:21 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:21 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:22 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:22 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:23 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:23 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:23 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:23 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:24 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:25 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:26 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:26 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:26 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:26 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:27 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:28 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:29 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:30 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:30 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:30 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:30 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:31 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:32 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:32 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:32 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:32 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:33 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:34 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:34 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:34 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:34 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:35 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:35 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:05:35 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:05:35 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:30:59 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:30:59 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:01 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:01 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:02 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:02 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:31:03 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:02 [info][socket.nsp.adapter.customRequest] [ 'ryutab', 'server1' ] (in main.js:76)
+2018-09-02 23:32:02 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:08 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:09 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:10 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:10 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-02 23:32:10 [info][socket.nsp.adapter.customRequest] [ 'server1', 'ryutab' ] (in main.js:76)
+2018-09-02 23:32:10 [info][socket.nsp.adapter.customRequest] [ [ { node: 'ryutab', namespace: '/', connected: 1 },
+    { node: 'ryutab', namespace: '/chat', connected: 1 },
+    { node: 'ryutab', namespace: '/bot', connected: 0 },
+    { node: 'ryutab', namespace: '/private', connected: 0 },
+    { node: 'ryutab', namespace: '/mon-redis', connected: 0 } ],
+  [ { node: 'server1', namespace: '/', connected: 0 },
+    { node: 'server1', namespace: '/chat', connected: 0 },
+    { node: 'server1', namespace: '/bot', connected: 0 },
+    { node: 'server1', namespace: '/private', connected: 0 },
+    { node: 'server1', namespace: '/mon-redis', connected: 0 } ] ] (in main.js:76)
+2018-09-03 01:00:50 [debug][Socket.<anonymous>] [/mon-redis][guest][ryutab][::1] : client disconnected : reason transport error (in main.js:107)
