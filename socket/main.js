@@ -14,44 +14,46 @@ exports.createServer = function(io){
     monNSP.on('connect',(socket) => { 
         connectHandler(socket);      
         socket.on('disconnect', commonDisconnectHandler(socket));   
-        socket.on('getAliveNode', getAliveNode(socket)); // get alive node lists
-        socket.on('getConnected', getConnected(socket)); // request.nodeName, request.type
-        socket.on('getConnectedAll', getConnectedAll(socket));
-
+        socket.on('getAliveNode', reqAliveNode(socket)); // get alive node lists
+        socket.on('getConnected', reqConnected(socket)); // request.nodeName, request.type
+        socket.on('getConnectedAll', reqConnectedAll(socket));
     }) 
     
     monNSP.adapter.customHook = undefinedReply;
     function undefinedReply(request,cb){
+        if(request.from !== global.hostname) {
+            global.logger.info(`received msg from node : ${request.msg}`)
+        } 
         cb();
     }
 }; 
 
-function getAliveNode(socket){
+function reqAliveNode(socket){
     return function(data = {}){
         if(typeof(data) != 'object'){
             socket.emit('msg', 'need request object')
         } else {
             const request = {};
+            request.node = 'socket.io-redis-mon';
             request.type = 'getAliveNode';
             redisRequester(socket, request);
         }
     }
 }
 
-function getConnected(socket){
+function reqConnected(socket){
     return function(data = {}){
         if(typeof(data) != 'object' || data.nodeName){
             socket.emit('msg', 'need request object')
         } else {
-            const request = {};
-            request.type = 'getConnected';            
+            const request = {};    
             request.nodeName = data.nodeName;
             redisRequester(socket, request);
         }
     }
 }
 
-function getConnectedAll(socket){
+function reqConnectedAll(socket){
     return function(data = {}){
         if(typeof(data) != 'object'){
             socket.emit('msg', 'need request object')
@@ -69,6 +71,7 @@ function getConnectedAll(socket){
 
 
 function redisRequester(socket, request, cb){
+    request.from = global.hostname;
     socket.nsp.adapter.customRequest(request, (err,replies) => {
             // socket.io-redis : like other request type, need to filter undefined result
             // implement..
