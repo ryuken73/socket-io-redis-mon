@@ -8,6 +8,7 @@ const _ = require('lodash');
 exports.createServer = function(io){
 
     io.adapter(redis({host:global.appconfig.redisInfo.address, port:global.appconfig.redisInfo.port}));
+    // todo : use variable for namespace ( as key )
     const monNSP = io.of('/mon-redis');
    
     monNSP.use(commonMiddleware);
@@ -20,11 +21,13 @@ exports.createServer = function(io){
     }) 
     
     monNSP.adapter.customHook = undefinedReply;
+
     function undefinedReply(request,cb){
-        if(request.from !== global.hostname) {
+        if(request.type === 'eventNotification') {
             global.logger.info(`received msg from node : ${request.msg}`)
+            monNSP.local.emit('msg', request.msg);
         } 
-        cb();
+        cb(); 
     }
 }; 
 
@@ -34,11 +37,10 @@ function reqAliveNode(socket){
             socket.emit('msg', 'need request object')
         } else {
             const request = {};
-            request.node = 'socket.io-redis-mon';
             request.type = 'getAliveNode';
             redisRequester(socket, request);
         }
-    }
+    } 
 }
 
 function reqConnected(socket){
@@ -62,9 +64,9 @@ function reqConnectedAll(socket){
             request.type = 'getConnectedAll';            
             redisRequester(socket, request, sumBynsp);
         }
-
         function sumBynsp(results){
-            console.log(results);
+            global.logger.info(results);
+            socket.emit('msg', results)
         }
     }
 }
