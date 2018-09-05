@@ -2402,3 +2402,142 @@
 2018-09-05 00:28:02 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /private (in main.js:25)
 2018-09-05 00:28:08 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, / (in main.js:25)
 2018-09-05 00:28:27 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, / (in main.js:25)
+2018-09-05 20:59:14 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:104)
+2018-09-05 20:59:14 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:121)
+2018-09-05 20:59:27 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:27)
+2018-09-05 20:59:27 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:27)
+2018-09-05 20:59:37 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:27)
+2018-09-05 20:59:37 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:27)
+2018-09-05 21:00:10 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:81)
+2018-09-05 21:00:10 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1',
+      namespace: '/',
+      connected: 1,
+      socketIDs: [Array] },
+    { node: 'server1',
+      namespace: '/chat',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/bot',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/private',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/mon-redis',
+      connected: 0,
+      socketIDs: [] } ] ] (in main.js:81)
+2018-09-05 21:00:10 [info][sumBynsp] [ [ { node: 'server1',
+      namespace: '/',
+      connected: 1,
+      socketIDs: [Array] },
+    { node: 'server1',
+      namespace: '/chat',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/bot',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/private',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/mon-redis',
+      connected: 0,
+      socketIDs: [] } ] ] (in main.js:68)
+2018-09-05 21:00:11 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:81)
+2018-09-05 21:00:11 [info][socket.nsp.adapter.customRequest] [ [ { node: 'server1',
+      namespace: '/',
+      connected: 1,
+      socketIDs: [Array] },
+    { node: 'server1',
+      namespace: '/chat',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/bot',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/private',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/mon-redis',
+      connected: 0,
+      socketIDs: [] } ] ] (in main.js:81)
+2018-09-05 21:00:11 [info][sumBynsp] [ [ { node: 'server1',
+      namespace: '/',
+      connected: 1,
+      socketIDs: [Array] },
+    { node: 'server1',
+      namespace: '/chat',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/bot',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/private',
+      connected: 0,
+      socketIDs: [] },
+    { node: 'server1',
+      namespace: '/mon-redis',
+      connected: 0,
+      socketIDs: [] } ] ] (in main.js:68)
+2018-09-05 21:00:25 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:27)
+2018-09-05 21:00:26 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:27)
+2018-09-05 21:21:40 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:27)
+2018-09-05 21:21:48 [info][socket.nsp.adapter.customRequest] [ 'server1' ] (in main.js:81)
+2018-09-05 21:21:48 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:81)
+2018-09-05 21:21:48 [info][sumBynsp] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:68)
+2018-09-05 21:24:42 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 1, ::1 (in main.js:27)
+2018-09-05 21:24:49 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:81)
+2018-09-05 21:24:49 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:81)
+2018-09-05 21:24:49 [info][sumBynsp] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:68)
+2018-09-05 21:57:32 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:118)
+2018-09-05 21:57:32 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:135)
+2018-09-05 21:58:36 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason ping timeout (in main.js:126)
+2018-09-05 21:58:43 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:27)
+2018-09-05 21:58:44 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server2, /, 0, ::1 (in main.js:27)
+2018-09-05 21:58:51 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 1, ::1 (in main.js:27)
+2018-09-05 21:59:00 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:27)
+2018-09-05 21:59:03 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:118)
+2018-09-05 21:59:03 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:135)
+2018-09-05 21:59:06 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:95)
+2018-09-05 21:59:47 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:118)
+2018-09-05 21:59:47 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:135)
+2018-09-05 22:00:32 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:118)
+2018-09-05 22:00:33 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:135)
+2018-09-05 22:00:34 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:95)
+2018-09-05 22:00:34 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:95)
+2018-09-05 22:00:34 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:70)
+2018-09-05 22:00:40 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:95)
+2018-09-05 22:00:40 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:95)
+2018-09-05 22:00:40 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:70)
+2018-09-05 22:01:22 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:126)

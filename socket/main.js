@@ -62,11 +62,25 @@ function reqConnectedAll(socket){
         } else {
             const request = {};
             request.type = 'getConnectedAll';            
-            redisRequester(socket, request, sumBynsp);
+            redisRequester(socket, request, sumByNode);
         }
-        function sumBynsp(results){
+        //results sample 
+        //[{node:server1, data : [{namespace:'/', connected:1},...]}{}]
+        function sumByNode(results){
             global.logger.info(results);
-            socket.emit('msg', results)
+            const connectedByNode  = []
+            for(const result of results){
+                const nodename = result.node;
+                const connectionList = result.connected;
+                const count = connectionList.reduce((sum,connInfo) => {
+                    return sum + connInfo.connected
+                },0)
+                connectedByNode.push({
+                    nodename : nodename,
+                    connected : count
+                })
+            }
+            socket.emit('msg', connectedByNode)
         }
     }
 }
