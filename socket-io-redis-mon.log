@@ -2541,3 +2541,814 @@
   { node: 'server2',
     connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:70)
 2018-09-05 22:01:22 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:126)
+2018-09-06 22:41:51 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:117)
+2018-09-06 22:41:51 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:134)
+2018-09-06 22:41:52 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:94)
+2018-09-06 22:41:52 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:94)
+2018-09-06 22:41:52 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:70)
+2018-09-06 22:42:14 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:94)
+2018-09-06 22:42:14 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:94)
+2018-09-06 22:42:14 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:70)
+2018-09-06 23:25:39 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:25:39 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:25:43 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:25:43 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:27:59 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:27:59 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:28:03 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:28:04 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:28:04 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:28:05 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:28:05 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:28:05 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:28:28 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:28:28 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:44:51 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:44:51 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:44:55 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:44:56 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:44:56 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:44:58 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:44:58 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:44:58 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:44:59 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:44:59 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:44:59 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:01 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:01 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:01 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:02 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:02 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:02 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:03 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:03 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:03 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:04 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:04 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:04 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:37 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:45:37 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:45:39 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:45:40 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:45:40 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:45:42 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:42 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:42 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:43 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:43 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:43 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:43 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:43 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:43 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:46 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 1, ::1 (in main.js:28)
+2018-09-06 23:45:48 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:48 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:48 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:45:49 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:45:49 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:45:49 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:46:28 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 2, ::1 (in main.js:28)
+2018-09-06 23:46:29 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:46:29 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:46:29 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:46:32 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:46:32 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:46:32 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:46:32 [info][socket.nsp.adapter.customRequest] [ 'server2' ] (in main.js:96)
+2018-09-06 23:46:32 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:46:32 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:01 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:28)
+2018-09-06 23:48:03 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:48:03 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:03 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:05 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:48:05 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:05 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:07 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:48:07 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:07 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:17 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 2, ::1 (in main.js:28)
+2018-09-06 23:48:18 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:48:18 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:18 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:21 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:96)
+2018-09-06 23:48:21 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:21 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:48:34 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:48:34 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:48:34 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:50:09 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::ffff:127.0.0.1] : middleware passing (in main.js:119)
+2018-09-06 23:50:09 [debug][connectHandler] [/mon-redis][guest][mon][::ffff:127.0.0.1] : new client connected (in main.js:136)
+2018-09-06 23:50:48 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:50:48 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:50:49 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:50:50 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:50:50 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:50:51 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:50:51 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:50:51 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:50:55 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:50:55 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:50:55 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:51:18 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::ffff:127.0.0.1] : middleware passing (in main.js:119)
+2018-09-06 23:51:18 [debug][connectHandler] [/mon-redis][guest][mon][::ffff:127.0.0.1] : new client connected (in main.js:136)
+2018-09-06 23:51:23 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::ffff:127.0.0.1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:51:24 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:51:24 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:51:25 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:51:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:51:25 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:51:47 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:51:47 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:51:51 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-06 23:51:52 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:119)
+2018-09-06 23:51:52 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:136)
+2018-09-06 23:51:53 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:96)
+2018-09-06 23:51:53 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:51:53 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:51:54 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:96)
+2018-09-06 23:51:54 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:96)
+2018-09-06 23:51:54 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:71)
+2018-09-06 23:53:54 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server2, /, 1, ::1 (in main.js:28)
+2018-09-06 23:54:03 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server2, /, 0, ::1 (in main.js:28)
+2018-09-06 23:54:08 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 1, ::1 (in main.js:28)
+2018-09-06 23:54:13 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:28)
+2018-09-06 23:54:18 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:127)
+2018-09-07 00:31:37 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:145)
+2018-09-07 00:31:37 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:162)
+2018-09-07 00:32:04 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:145)
+2018-09-07 00:32:04 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:162)
+2018-09-07 00:32:06 [info][socket.nsp.adapter.customRequest] [] (in main.js:125)
+2018-09-07 00:32:06 [info][socket.nsp.adapter.customRequest] [] (in main.js:125)
+2018-09-07 00:32:08 [info][socket.nsp.adapter.customRequest] [] (in main.js:125)
+2018-09-07 00:32:08 [info][socket.nsp.adapter.customRequest] [] (in main.js:125)
+2018-09-07 00:33:05 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:05 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:07 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:07 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:14 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:14 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:23 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:23 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:23 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:125)
+2018-09-07 00:33:23 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:24 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:26 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:27 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:27 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:28 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:48 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:48 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:125)
+2018-09-07 00:33:50 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:44 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:145)
+2018-09-07 00:40:44 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:162)
+2018-09-07 00:40:46 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:125)
+2018-09-07 00:40:46 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:49 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:40:49 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:50 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:125)
+2018-09-07 00:40:50 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:40:51 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:41:59 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:125)
+2018-09-07 00:41:59 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:08 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:08 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:10 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:10 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:27 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:27 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:28 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:28 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:31 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:42:31 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:125)
+2018-09-07 00:42:31 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:125)
+2018-09-07 00:45:41 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:145)
+2018-09-07 00:45:41 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:162)
+2018-09-07 00:46:59 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:146)
+2018-09-07 00:46:59 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:163)
+2018-09-07 00:47:07 [info][sumByNode] Promise { <pending> } (in main.js:85)
+2018-09-07 00:47:07 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:126)
+2018-09-07 00:47:07 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:18 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:146)
+2018-09-07 00:48:18 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:163)
+2018-09-07 00:48:25 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:25 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:25 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:38 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:38 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:38 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:38 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:38 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server2', 'server1' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:39 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:39 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:40 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:40 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:40 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:40 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:40 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:40 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:43 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 1, ::1 (in main.js:28)
+2018-09-07 00:48:45 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server2, /, 2, ::1 (in main.js:28)
+2018-09-07 00:48:47 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:47 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:47 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:48 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:48 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:48 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:53 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:53 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:53 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:48:57 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:48:57 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:48:57 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:01 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::1] : client disconnected : reason transport error (in main.js:154)
+2018-09-07 00:49:02 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:146)
+2018-09-07 00:49:02 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:163)
+2018-09-07 00:49:03 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:03 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:03 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:05 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:05 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:05 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:13 [info][Redis.undefinedReply [as customHook]] received msg from node : client connection event on node server1, /, 1, ::1 (in main.js:28)
+2018-09-07 00:49:15 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:15 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:15 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:16 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:16 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:16 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:17 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:17 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:17 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:17 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:19 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:19 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:19 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:20 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:20 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:20 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:20 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:20 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:20 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:21 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:21 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:126)
+2018-09-07 00:49:21 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:126)
+2018-09-07 00:49:21 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:85)
+2018-09-07 00:49:31 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:130)
+2018-09-07 00:49:31 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:147)
+2018-09-07 00:51:13 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:131)
+2018-09-07 00:51:13 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:148)
+2018-09-07 00:51:17 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:51:17 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:51:17 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:51:23 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:51:23 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:51:23 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:55:55 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::ffff:127.0.0.1] : middleware passing (in main.js:131)
+2018-09-07 00:55:55 [debug][connectHandler] [/mon-redis][guest][mon][::ffff:127.0.0.1] : new client connected (in main.js:148)
+2018-09-07 00:56:02 [debug][Socket.<anonymous>] [/mon-redis][guest][mon][::ffff:127.0.0.1] : client disconnected : reason transport error (in main.js:139)
+2018-09-07 00:56:02 [debug][Array.commonMiddleware] [/mon-redis][guest][mon][::1] : middleware passing (in main.js:131)
+2018-09-07 00:56:02 [debug][connectHandler] [/mon-redis][guest][mon][::1] : new client connected (in main.js:148)
+2018-09-07 00:56:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:56:04 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:56:04 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:56:04 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:56:04 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:56:04 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:56:10 [info][Redis.undefinedReply [as customHook]] received msg from node : client disconnect event on node server1, /, 0, ::1 (in main.js:28)
+2018-09-07 00:56:12 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:56:12 [info][socket.nsp.adapter.customRequest] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:56:12 [info][sumByNode] [ { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:56:14 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:56:14 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:56:14 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)
+2018-09-07 00:57:16 [info][socket.nsp.adapter.customRequest] [ 'server1', 'server2' ] (in main.js:111)
+2018-09-07 00:57:16 [info][socket.nsp.adapter.customRequest] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:111)
+2018-09-07 00:57:16 [info][sumByNode] [ { node: 'server1',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] },
+  { node: 'server2',
+    connected: [ [Object], [Object], [Object], [Object], [Object] ] } ] (in main.js:86)

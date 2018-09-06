@@ -24,21 +24,30 @@ exports.createServer = function(io){
 
     function undefinedReply(request,cb){
         if(request.type === 'eventNotification') {
+            // event notification from monitored node
             global.logger.info(`received msg from node : ${request.msg}`)
             monNSP.local.emit('msg', request.msg);
+            switch(request.event){
+                case 'connection' : 
+                    const nodeCount = sumByNode(request.connInfo);
+                    monNSP.local.emit('resConnectedAll', nodeCount);
+
+
+            }
         } 
         cb(); 
     }
 }; 
 
 function reqAliveNode(socket){
-    return function(data = {}){
+    return async function(data = {}){
         if(typeof(data) != 'object'){
             socket.emit('msg', 'need request object')
         } else {
             const request = {};
             request.type = 'getAliveNode';
-            redisRequester(socket, request);
+            const result = await redisRequester(socket, request);
+            socket.emit('msg', result);
         }
     } 
 }
@@ -56,51 +65,55 @@ function reqConnected(socket){
 }
 
 function reqConnectedAll(socket){
-    return function(data = {}){
+    return async function(data = {}){
         if(typeof(data) != 'object'){
             socket.emit('msg', 'need request object')
         } else {
             const request = {};
             request.type = 'getConnectedAll';            
-            redisRequester(socket, request, sumByNode);
+            const result = await redisRequester(socket, request);
+            const nodeCount = sumByNode(result);
+            console.log(nodeCount);
+            socket.emit('msg', nodeCount);
+            socket.emit('resConnectedAll', nodeCount )
         }
         //results sample 
         //[{node:server1, data : [{namespace:'/', connected:1},...]}{}]
-        function sumByNode(results){
-            global.logger.info(results);
-            const connectedByNode  = []
-            for(const result of results){
-                const nodename = result.node;
-                const connectionList = result.connected;
-                const count = connectionList.reduce((sum,connInfo) => {
-                    return sum + connInfo.connected
-                },0)
-                connectedByNode.push({
-                    nodename : nodename,
-                    connected : count
-                })
-            }
-            socket.emit('msg', connectedByNode)
-        }
     }
 }
 
-
-function redisRequester(socket, request, cb){
-    request.from = global.hostname;
-    socket.nsp.adapter.customRequest(request, (err,replies) => {
-            // socket.io-redis : like other request type, need to filter undefined result
-            // implement..
-            const filtered = replies.filter(reply => reply !== undefined)
-            logger.info(filtered);
-            if(typeof(cb) !== 'function'){
-                socket.emit('msg', filtered);
-            }else{
-                cb(filtered);
-            }
-    })
+function sumByNode(connInfos){
+    global.logger.info(connInfos);
+    const connectedByNode  = []
+    for(const connInfo of connInfos){
+        const nodename = connInfo.node;
+        const connectionList = connInfo.connected;
+        const count = connectionList.reduce((sum,nspInfo) => {
+            return sum + nspInfo.connected
+        },0)
+        connectedByNode.push({
+            nodename : nodename,
+            connected : count
+        })
+    }
+    return connectedByNode
 }
 
+ function redisRequester(socket, request){
+    return new Promise((resolve,reject) => {
+        request.from = global.hostname;
+        socket.nsp.adapter.customRequest(request, (err,replies) => {
+            if(err) {
+                reject(err);
+            } else {
+                // socket.io-redis : like other request type, need to filter undefined result
+                const filtered = replies.filter(reply => reply !== undefined)
+                logger.info(filtered);
+                resolve(filtered);
+            }
+        })
+    })
+}
 
 
 function getInfo(socket){
