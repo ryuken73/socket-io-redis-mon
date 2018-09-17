@@ -9,10 +9,15 @@ exports.createServer = function(io){
 
     io.adapter(redis({host:global.appconfig.redisInfo.address, port:global.appconfig.redisInfo.port}));
     // todo : use variable for namespace ( as key )
+    // use '/mon-redis' as communication namespace between socket servers and mon server
+    // and use '/mon-redis' namespace as communication nsp between monServer and monitoring browser
     const monNSP = io.of('/mon-redis');
    
     monNSP.use(commonMiddleware);
-    monNSP.on('connect',(socket) => { 
+
+    monNSP.on('connect',(socket) => {  
+        // when new socket server started, connect event fired
+        // or when new monitor browser connected
         connectHandler(socket);      
         socket.on('disconnect', commonDisconnectHandler(socket));   
         socket.on('getAliveNode', reqAliveNode(socket)); // get alive node lists
@@ -20,21 +25,30 @@ exports.createServer = function(io){
         socket.on('getConnectedAll', reqConnectedAll(socket));
     }) 
     
+    // ignore all custom request by undfinedReply
     monNSP.adapter.customHook = undefinedReply;
 
     function undefinedReply(request,cb){
+        // if request.type == eventNotification,
+        // this event is from monitored socket node
         if(request.type === 'eventNotification') {
             // event notification from monitored node
             global.logger.info(`received msg from node : ${request.msg}`)
             monNSP.local.emit('msg', request.msg);
+            let nodeCount; 
             switch(request.event){
+ 
                 case 'connection' : 
-                    const nodeCount = sumByNode(request.connInfo);
+                    nodeCount = sumByNode(request.connInfo);
                     monNSP.local.emit('resConnectedAll', nodeCount);
-
-
+                case 'disconnect' :
+                    console.log(request.connInfo)
+                    nodeCount = sumByNode(request.connInfo);
+                    monNSP.local.emit('resDisConnectedAll', nodeCount);            
             }
         } 
+        // ignore all custom request by cb()
+
         cb(); 
     }
 }; 
@@ -98,6 +112,13 @@ function sumByNode(connInfos){
     }
     return connectedByNode
 }
+
+ // customRequst to socket servers
+ // request looks like
+ // request = {from:'nodename', type:'functional string'}
+ // ** function string
+ // 'getAliveNode' : get alive node names
+ // 'getConnectedAll' : get socketservers connected client info
 
  function redisRequester(socket, request){
     return new Promise((resolve,reject) => {
