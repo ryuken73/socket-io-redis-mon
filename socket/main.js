@@ -33,7 +33,7 @@ exports.createServer = function(io){
         // this event is from monitored socket node
         if(request.type === 'eventNotification') {
             // event notification from monitored node
-            global.logger.info(`received msg from node : ${request.msg}`)
+            global.logger.info(`received msg from node : ${request.event} : ${request.msg}`)
             monNSP.local.emit('msg', request.msg);
             let nodeCount; 
             switch(request.event){
